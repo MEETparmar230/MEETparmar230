@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Meet
 
 💻 MERN Stack Developer | Computer Engineering Student  
-🌱 Currently learning: Advanced React, Node, Nextjs and Spring-Boot 
+🌱 Currently learning: Advanced React, Node, Nextjs and Spring-Boot     
 🚀 Looking for: Internship / Junior Web Developer role
 
 ### 🛠 Tech Stack
@@ -12,10 +12,10 @@
 
 ### 📌 Featured Projects
 - 📝 **Full-Stack To-Do App** ( [Live](https://my-to-do-app-blue.vercel.app/) || [Github](https://github.com/MEETparmar230/My-To-do-app) ) (React + Express/Spring-Boot + MongoDB)
-- 📦 **Rural Product Booking Platform** ( [Live](https://my-to-do-app-blue.vercel.app/) || [Github](https://github.com/MEETparmar230/My-To-do-app) )
+- 📦 **Rural Product Booking Platform** ( [Live](https://gram-bazaar.vercel.app/) || [Github](https://github.com/MEETparmar230/GramBazaar) )
+- 🔍 **Resume Analyzer** ( [Live](https://resume-analyzer-blush-nine.vercel.app/) || [Github](https://github.com/MEETparmar230/Resume-analyzer-client) )
+- 📊 **Personal-Finance-Visualizer** ( [Live](https://personal-finance-visualizer-kohl.vercel.app/) || [Github](https://github.com/MEETparmar230/Personal-Finance-Visualizer) )
 <!-- - 💬 **Real-Time Chat App (Socket.io)** ( [Live](https://my-to-do-app-blue.vercel.app/) || [Github](https://github.com/MEETparmar230/My-To-do-app) ) -->
-- 🔍 **Resume Analyzer** ( [Live](https://my-to-do-app-blue.vercel.app/) || [Github](https://github.com/MEETparmar230/My-To-do-app) )
-- 📊 **Personal-Finance-Visualizer** ( [Live](https://my-to-do-app-blue.vercel.app/) || [Github](https://github.com/MEETparmar230/My-To-do-app) )
 
 
 ### 📫 Connect with me
