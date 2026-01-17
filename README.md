@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Meet
 
-💻 MERN Stack Developer | Computer Engineering Student  
+💻 MERN Stack Developer | Computer Engineer  
 🌱 Currently learning: Advanced React, Node, Nextjs and Spring-Boot     
 🚀 Looking for: Internship / Junior Web Developer role
 
